@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Intelligent_Farm_Bot",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

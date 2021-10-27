@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent_Farm_Bot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
